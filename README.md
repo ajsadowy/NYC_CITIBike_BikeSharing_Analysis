@@ -32,3 +32,13 @@ Here we see thatnon subscribers to the Bike Sharing program use the program than
 Seeing most endpoints of trips being near business centers of midtown, this adds further evidence of our theory most people use the bike sharing program to commute.   
 
 ## Summary   
+Conclusions:   
+* Most trips were around 10 minutes long.   
+* Most trips are probably for commuting to work.   
+* Mostly men and subscribed customers use the service.   
+   
+If the same strategy is to be used in Des Moines, IA then focusing on providing an alternative method of commuting would be a great start in building up subscribers. This market of riders is probably the same in most cities. If a soft start to the project can be started we can compare that initial data to see if the trends for the city match without risking a large initial investment capital.   
+   
+The additional data that would be best to look into is geographical information. Specifically using an elevation map of the two cities might useful to see if the two cities are comparable. NYC mostly know for its flat and gridlike roads might make biking an easy and therefore preferable method of transportation.   
+   
+Another bit of information that would be useful is year round data that can show how seasonal conditions may affect the rider usage and make accurate predictions.
